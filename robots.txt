@@ -1,0 +1,1 @@
+Sitemap: https://philippbayer.github.io/fastpages_repo/sitemap.xml
